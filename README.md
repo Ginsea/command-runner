@@ -16,7 +16,7 @@
 
 1. **克隆仓库**：
    ```bash
-   git clone https://github.com/yourusername/command-runner.git
+   git clone https://github.com/Ginsea/command-runner.git
    cd command-runner
    ```
 
@@ -131,4 +131,4 @@ ls -l
 ## **联系方式**
 如有问题，请联系：
 - 邮箱：cginsea@gmail.com
-- GitHub: [yourusername](https://github.com/yourusername)
+- GitHub: [Ginsea](https://github.com/Ginsea)
